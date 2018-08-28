@@ -4,7 +4,7 @@
 
 #### This is an H4 sized header.
 
-[This is a link to Google.] (https://www.google.com)
+[This is a link to Google.](https://www.google.com)
 
 ![This is an image located in a directory](/Tiger.jpg "This is an image located in a directory.")
 
