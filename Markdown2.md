@@ -19,8 +19,8 @@ print text
 
 This | Is | A | Table
 --- | --- | --- | ---
-1| 2 | 3
-a | b | c
+1| 2 | 3 | 4
+a | b | c | d
 
 This text is **bold**
 
